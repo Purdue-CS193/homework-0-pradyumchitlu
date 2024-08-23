@@ -1,3 +1,10 @@
+# Pradyum Chitlu's First CS193 Homework
+## My favorite things about CS193 so far:
+- learning how to make my own website from a repository
+- using github classroom
+- committing changes to github
+- ready to learn more about terminal
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -18,8 +25,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered. This is me making a change.
-2. List. Hello everyone.
+1. Numbered.
+2. List.
 
 **Bold** and _Italic_ and `Code` text
 
