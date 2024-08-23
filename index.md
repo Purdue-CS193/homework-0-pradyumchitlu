@@ -18,8 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Numbered. This is me making a change.
+2. List. Hello everyone.
 
 **Bold** and _Italic_ and `Code` text
 
